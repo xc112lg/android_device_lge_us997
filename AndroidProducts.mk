@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_us997.mk
+    $(LOCAL_DIR)/derp_us997.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_us997-userdebug \
-    lineage_us997-eng
+    derp_us997-userdebug \
+    derp_us997-eng
